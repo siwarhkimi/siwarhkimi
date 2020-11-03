@@ -51,12 +51,12 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+  
 
   <img align="left" alt="siwarhkimi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=siwarhkimi&hide=stars&show_icons=true&hide_border=false" />
 
-</details>
+
 
 [website]: https://siwarhkimi-portfolio-2.glitch.me/
 [linkedin]: https://www.linkedin.com/in/siwar-hkimi-228428155/
