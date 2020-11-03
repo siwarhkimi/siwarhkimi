@@ -7,10 +7,6 @@
 - 🥅 2020 Goals: Start my YouTube channel
 - ⚡ Fun fact: I can move my ears
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="siwarhkimi Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="siwarhkimi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
