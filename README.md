@@ -1,3 +1,7 @@
+<img  alt="siwarhkimi" width="1200px" src="me.png" />
+
+
+
 ## Hi there, I'm [Siwar][website] 👋
 
 ### I'm a full-stack web Developer, and Mathematician!!
