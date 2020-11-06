@@ -7,7 +7,7 @@
 ### I'm a full-stack web Developer, and Mathematician!!
 
 - 🔭 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Start my YouTube channel
 - ⚡ Fun fact: I can move my ears
 
@@ -40,9 +40,12 @@
 <br />
 <br />
 ---
-### Some of my Projects
-<img  alt="TekTree"  src="tektree.gif" />
+
+### My Projects
+<img  alt="TekTree" width="100px" src="tektree.gif" />
+
 ---
+
 #### My GitHub Stats
 
   <img align="left" alt="siwarhkimi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siwarhkimi&hide=stars&show_icons=true&count_private=true&hide_border=false" />
