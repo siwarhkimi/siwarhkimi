@@ -7,7 +7,7 @@
 ### I'm a full-stack web Developer, and Mathematician!!
 
 - 🔭 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Start my YouTube channel
 - ⚡ Fun fact: I can move my ears
 
