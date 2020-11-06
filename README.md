@@ -39,9 +39,10 @@
 
 <br />
 <br />
+
 ---
 
-### My Projects
+### Some of my Projects
 <img  alt="TekTree" width="100px" src="tektree.gif" />
 
 ---
