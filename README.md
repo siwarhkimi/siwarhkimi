@@ -44,9 +44,9 @@
 
 
 ### Some of my Projects
-Discover TekTree a web agency specialized in three services : Web development, Sponsoring, and graphic design. Click on the Image to visit website<a href="https://siwarhkimi.github.io/TekTree/"><img   alt="TekTree" width="150px" src="tektree.gif" />
+Discover TekTree a web agency specialized in three services : Web development, Sponsoring, and graphic design. Click on the Image to visit website<a href="https://siwarhkimi.github.io/TekTree/"><img   alt="TekTree" width="150px" src="tektree.gif" /></a>
   
-CMMS or Computerized maintenance management system which is a software package that maintains a computer database of information about an organization's maintenance operations.<img   alt="TekTree" width="50%" src="cmms.gif"/></a>
+CMMS or Computerized maintenance management system which is a software package that maintains a computer database of information about an organization's maintenance operations.<img   alt="cmms" width="150px"  src="cmms.gif"/>
 
 
 
