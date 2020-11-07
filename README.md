@@ -44,15 +44,15 @@
 
 
 ### Some of my Projects
-<img   align="left"  alt="TekTree" width="100px" src="tektree.gif" />
-<img   align="left" alt="TekTree" width="80px" src="cmms.gif" height="43px"/>
+<img   alt="TekTree" width="100px" src="tektree.gif" />  <img   alt="TekTree" width="80px" src="cmms.gif" height="43px"/>
+
 
 
 ---
 
 #### My GitHub Stats
 
-  <img  alt="siwarhkimi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siwarhkimi&hide=stars&show_icons=true&count_private=true&hide_border=false" />
+  <img align="left" alt="siwarhkimi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siwarhkimi&hide=stars&show_icons=true&count_private=true&hide_border=false" />
 
 
 
