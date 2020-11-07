@@ -46,13 +46,12 @@
 ### Some of my Projects
 
 <figure class="image">
-  <a href="https://siwarhkimi.github.io/TekTree/"><img   alt="TekTree" src="tektree.gif" /></a>
-
-</figure>
+  <a href="https://siwarhkimi.github.io/TekTree/"><img align="center"   alt="TekTree" src="tektree.gif" /></a>
+</figure><br/>
 Discover TekTree a web agency specialized in three services : Web development, Sponsoring, and graphic design.
 
 <figure class="image">
- <img  alt="cmms"src="cmms.gif"/>
+ <img align="center" alt="cmms"src="cmms.gif"/>
 </figure>
 CMMS or Computerized maintenance management system which is a software package that maintains a computer database of information about an organization's maintenance operations.
 
