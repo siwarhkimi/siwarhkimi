@@ -52,7 +52,7 @@
 
 #### My GitHub Stats
 
-  <img align="left" alt="siwarhkimi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siwarhkimi&hide=stars&show_icons=true&count_private=true&hide_border=false" />
+  <img  alt="siwarhkimi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siwarhkimi&hide=stars&show_icons=true&count_private=true&hide_border=false" />
 
 
 
