@@ -45,7 +45,7 @@
 
 ### Some of my Projects
 
-   <a href="https://siwarhkimi.github.io/TekTree/"><img align="center"   alt="TekTree" src="tektree.gif" /></a>
+   <a href="https://siwarhkimi.github.io/TekTree/"><img align="left"   alt="TekTree" src="tektree.gif" /></a>
 
    Discover TekTree a web agency specialized in three services : Web development, Sponsoring, and graphic design.
 
