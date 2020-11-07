@@ -51,7 +51,7 @@
 <center> Discover TekTree a web agency specialized in three services : Web development, Sponsoring, and graphic design.</center>
 
 <center>
-  <a href="https://github.com/siwarhkimi/v2.git"><img alt="cmms"src="cmms.gif"/></a>
+  <a href="https://github.com/siwarhkimi/v2.git"><img alt="cmms" style="float: center;" src="cmms.gif"/></a>
 </center>
 <center> CMMS or Computerized maintenance management system which is a software package that maintains a computer database of information about an organization's maintenance operations.</center>
 
