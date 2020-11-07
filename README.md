@@ -44,7 +44,7 @@
 
 
 ### Some of my Projects
-<img   alt="TekTree" src="tektree.gif" />  <img   alt="TekTree" src="cmms.gif"/>
+<img   alt="TekTree" width="50%" src="tektree.gif" />  <img   alt="TekTree" width="50%" src="cmms.gif"/>
 
 
 
