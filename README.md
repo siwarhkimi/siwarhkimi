@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Start my YouTube channel
 - ⚡ Fun fact: I can move my ears
 
 ### Connect with me:
